@@ -41,12 +41,9 @@ A fully responsive and conversion-optimized Shopify e-commerce theme powering **
 
 You can use [Shopify CLI](https://shopify.dev/docs/themes/tools/cli) to preview, edit, and deploy this theme.
 
-### 1. **Install Shopify CLI**
 Follow the official guide: https://shopify.dev/docs/themes/tools/cli/installation
 
 ## 🙌 Acknowledgments
 
 - **Shopify** – For providing the powerful and flexible theme architecture used to build this store
-- **Liquid** – The templating language that powers dynamic rendering across the storefront
-- **Shopify CLI** – For enabling fast local development, preview, and deployment
 - **Meta Ads (Facebook)** – For ad pixel tracking and customer acquisition tools
