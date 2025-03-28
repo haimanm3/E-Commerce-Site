@@ -27,10 +27,10 @@ A fully responsive and conversion-optimized Shopify e-commerce theme powering **
 
 | Layer             | Technology                        |
 |------------------|------------------------------------|
-| E-Commerce Engine | Shopify                            |
+| E-Commerce Engine | [Shopify](https://www.shopify.com/)                             |
 | Templating        | Liquid                             |
 | Frontend          | HTML, CSS, JavaScript              |
-| Config/Data       | JSON (theme settings, translations)|
+| Config/Data       | JSON (for settings, locales, and theme metadata)|
 | Deployment        | Shopify CLI or Admin Interface     |
 | Ads & Analytics   | Meta Pixel, optional GA4           |
 | Version Control   | Git + GitHub                       |
@@ -41,7 +41,7 @@ A fully responsive and conversion-optimized Shopify e-commerce theme powering **
 
 You can use [Shopify CLI](https://shopify.dev/docs/themes/tools/cli) to preview, edit, and deploy this theme.
 
-Follow the official guide: https://shopify.dev/docs/themes/tools/cli/installation
+👉Follow the official guide: https://shopify.dev/docs/themes/tools/cli/installation
 
 ## 🙌 Acknowledgments
 
