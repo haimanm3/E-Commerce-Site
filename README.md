@@ -4,6 +4,9 @@ A fully responsive and conversion-optimized Shopify e-commerce theme powering **
 
 🌐 **Live Store:** [https://purrfectpetsproducts.com](https://purrfectpetsproducts.com)
 
+![Shopify](https://img.shields.io/badge/Built%20For-Shopify-blueviolet)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
+![Status](https://img.shields.io/badge/Live-Online-success)
 ---
 
 ## 🚀 Features
@@ -31,19 +34,6 @@ A fully responsive and conversion-optimized Shopify e-commerce theme powering **
 | Deployment        | Shopify CLI or Admin Interface     |
 | Ads & Analytics   | Meta Pixel, optional GA4           |
 | Version Control   | Git + GitHub                       |
-
----
-
-## 📂 Project Structure
-
-E-Commerce-Site/ ├── assets/ # Stylesheets, JavaScript, images, fonts ├── config/ # Shopify theme settings (settings_schema.json, etc.) ├── layout/ # Global layout files (theme.liquid, password.liquid) ├── locales/ # Translation JSON files (e.g., en.default.json) ├── sections/ # Reusable modular UI blocks (hero, product-grid, etc.) ├── snippets/ # Small Liquid components (buttons, cards, etc.) ├── templates/ # Page, product, blog, and collection templates └── README.md # Project documentation
-
-## 🏷️ Badges
-
-![Shopify](https://img.shields.io/badge/Built%20For-Shopify-blueviolet)
-![License](https://img.shields.io/github/license/haimanm3/E-Commerce-Site)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
-![Status](https://img.shields.io/badge/Live-Online-success)
 
 ---
 
