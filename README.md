@@ -13,7 +13,7 @@ A fully responsive and conversion-optimized Shopify e-commerce theme powering **
 
 - 🛍️ **Custom Shopify Theme** – Built using Liquid, HTML, CSS, and JavaScript
 - 🐶 **Curated Product Collections** – Organized for easy browsing by pet type and category
-- 📱 **Mobile-First Design** – Optimized for mobile, tablet, and desktop
+- 📱 **Cross-Platform Design** – Optimized for mobile, tablet, and desktop
 - 🧩 **Modular Sections** – Easy to customize homepage, banners, product grids, and more
 - 🔍 **SEO-Optimized** – Semantic markup, meta tags, and fast-loading assets
 - 💳 **Secure Checkout** – Native Shopify cart and payment integration
